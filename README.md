@@ -1,6 +1,6 @@
-# posiblesoftwareinterntest
+# TMBD Top rated Movies
 
-A new Flutter project.
+This projec includes list of Top Rated movies , their details , and movie trailer with youtube player built in.
 
 ## Getting Started
 
